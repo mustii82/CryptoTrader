@@ -1,0 +1,2 @@
+# CryptoTrader
+CryptoTrader Framework WIP
